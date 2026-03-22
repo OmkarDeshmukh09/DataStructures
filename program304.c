@@ -9,7 +9,7 @@ struct node
 
 int main()
 {
-    struct node obj;
+    struct node obj; 
 
     printf("%ld",sizeof(obj));
 
