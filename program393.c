@@ -34,7 +34,7 @@ void InsertFirst(PPNODE first , int no)
 
 void InsertLast(PPNODE first , int no)
 {
-    PNODE newn = NULL ;
+    PNODE newn = NULL  ;
     PNODE temp = NULL ;
 
     newn = (PNODE)malloc(sizeof(NODE));
