@@ -8,7 +8,7 @@ struct node
 };
 
 typedef struct node      NODE;      // Added
-typedef struct node*     PNODE;     // Added
+typedef struct node*     PNODE;     // Added 
 typedef struct node**    PPNODE;    // Added
 
 int main()
