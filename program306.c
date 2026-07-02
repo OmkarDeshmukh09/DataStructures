@@ -1,4 +1,4 @@
-#include <stdio.h>  
+#include <stdio.h>   
 
 #pragma pack (1)        
 struct node
